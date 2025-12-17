@@ -5,16 +5,52 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=800&height=50&lines=Estudiante+de+Programación+Informática;Aspirante+a+Full+Stack+Developer" />
 </div>
-
-Estudiante de la Tecnicatua en Programación Informática, apasionada por la tecnología y la innovación. Desarrollando habilidades en programación, algoritmos y análisis de datos. 
+Estudiante de la Tecnicatura en Programación Informática, apasionada por la tecnología y la innovación. Actualmente desarrollando habilidades en programación, algoritmos y análisis de datos.
 <!--Interesado en inteligencia artificial, aprendizaje automático y ciencia de datos. -->
-Comprometido con el aprendizaje continuo y buscando oportunidades para aplicar mis conocimientos y contribuir a soluciones tecnológicas innovadoras.  
+Comprometida con el aprendizaje continuo y con el objetivo de aplicar mis conocimientos en proyectos que aporten valor y soluciones tecnológicas. 
 
 ---
 <h2>
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>
   Lenguajes y herramientas de programación
 </h2>
+
+<h3 align="center">🧠 Lenguajes</h3>
+<div align="center">
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" alt="Python" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" alt="JavaScript" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg" width="40" alt="Kotlin" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" width="40" alt="C" />
+</div>
+<br/>
+<h3 align="center">🎨 Frontend</h3>
+<div align="center">
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" alt="HTML5" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" alt="CSS3" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" alt="React" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" width="40" alt="Angular" />
+</div>
+
+<br/>
+
+<h3 align="center">🧩 Backend</h3>
+<div align="center">
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" width="40" alt="Spring" />
+</div>
+
+<br/>
+
+<h3 align="center">🛠 Software & Tools</h3>
+<div align="center">
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" alt="Git" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" width="40" alt="IntelliJ IDEA" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="40" alt="Visual Studio Code" />
+  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" width="40" alt="Jupyter Notebook" />
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" width="40" alt="Arduino" />
+</div>
+
+
+
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Stats
