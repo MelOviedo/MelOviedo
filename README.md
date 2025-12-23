@@ -56,7 +56,9 @@ Comprometida con el aprendizaje continuo y con el objetivo de aplicar mis conoci
   GitHub Stats
 </h2>
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelOviedo&langs_count=10&theme=tokyonight&layout=compact" /></p>-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MelOviedo&show_icons=true&theme=gotham&count_private=true&hide_title=true&hide_border=true" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelOviedo&show_icons=true&theme=gotham&hide_title=true&hide_border=true" />
+</p>
 
 <!--
 **MelOviedo/MelOviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
