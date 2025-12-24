@@ -17,34 +17,34 @@ Comprometida con el aprendizaje continuo y con el objetivo de aplicar mis conoci
 
 <h3 align="center">🧠 Lenguajes</h3>
 <div align="center">
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" alt="Python" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" alt="JavaScript" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kotlin.svg" width="40" alt="Kotlin" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" width="40" alt="C" />
+  	<img src="./assets/python.svg" width="40" alt="Python" /> 
+		<img src="./assets/javascript.svg" width="40" alt="JavaScript" />
+		<img src="./assets/kotlin.svg" width="40" alt="Kotlin" />
+		<img src="./assets/c.svg" width="40" alt="c" />
 </div>
 <br/>
 <h3 align="center">🎨 Frontend</h3>
 <div align="center">
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" alt="HTML5" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" alt="CSS3" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" alt="React" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" width="40" alt="Angular" />
+  	<img src="./assets/html5.svg" width="40" alt="HTML5" />
+  	<img src="./assets/css_old.svg" width="40" alt="CSS3" />
+  	<img src="./assets/react_light.svg" width="40" alt="React" />
+  	<img src="./assets/angular.svg" width="40" alt="Angular" />
 </div>
 
 <br/>
 
 <h3 align="center">🧩 Backend</h3>
 <div align="center">
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" width="40" alt="Spring" />
+  	<img src="./assets/spring.svg" width="40" alt="Spring" />
 </div>
 
 <br/>
 
 <h3 align="center">🛠 Software & Tools</h3>
 <div align="center">
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" alt="Git" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" width="40" alt="IntelliJ IDEA" />
-  	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="40" alt="Visual Studio Code" />
+  	<img src="./assets/git.svg" width="40" alt="Git" />
+  	<img src="./assets/intellijidea.svg" width="40" alt="IntelliJ IDEA" />
+  	<img src="./assets/vscode.svg" width="40" alt="Visual Studio Code" />
   	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" width="40" alt="Jupyter Notebook" />
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" width="40" alt="Arduino" />
 </div>
