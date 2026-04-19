@@ -55,22 +55,16 @@ Comprometida con el aprendizaje continuo y con el objetivo de aplicar mis conoci
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Stats
 </h2>
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelOviedo&langs_count=10&theme=tokyonight&layout=compact" /></p>-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MelOviedo&show_icons=true&theme=gotham&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MelOviedo&show_icons=true&theme=gotham&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-
-<!--
-**MelOviedo/MelOviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+	<img src="https://streak-stats.demolab.com?user=MelOviedo&theme=gotham&hide_border=true" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MelOviedo&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelOviedo&langs_count=10&theme=gotham&layout=compact"/> -->
+  </td>
+</tr>
+</table>
